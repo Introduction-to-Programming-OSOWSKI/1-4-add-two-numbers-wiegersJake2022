@@ -1,3 +1,4 @@
 def add (x,y):
-    return 5,2
+    return x,y 
+
 add(5+2)
